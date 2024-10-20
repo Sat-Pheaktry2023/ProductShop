@@ -84,7 +84,7 @@ const menuProducts = [
     category: "iphone",
     title: "iPhone 14 Pro Max",
     price: "1200$",
-    imgSrc: "../Img/iphone-14.webp",
+    imgSrc: "./Img/iphone-14.webp",
   },
   {
     category: "airport",
